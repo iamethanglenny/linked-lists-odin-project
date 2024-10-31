@@ -172,3 +172,4 @@ const LinkedList = () => {
     
 };
 
+module.exports = LinkedList;
